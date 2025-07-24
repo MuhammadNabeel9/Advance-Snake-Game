@@ -30,5 +30,9 @@ HOW TO RUN CODE
 
 7 After Doing all above work then open folder SNAKE GAME folder in vs code
 
-8 Run The code 
+8 Run The file named as main_snake.py
+
+9 Now Game will start
+
+10 It is a multiplayer as well as single player game in python language.
 
