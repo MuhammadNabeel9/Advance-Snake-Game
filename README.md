@@ -1,7 +1,9 @@
 # Advance-Snake-Game
 4 Semester Final Year Project DSA in Python Language
 HOW TO RUN CODE
+
 1 Download All above files in specific Folder
+
 2 Extract the zip files in same folder
 
 3 Download interpreter from Microsoft Store OR GOOGLE (Python 3.11.9)
